@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 # Privacy Policy
 Hidden Object Games built the Trump Russian Trace app as an Ad Supported app. This SERVICE is provided by Hidden Object Games at no cost and is intended for use as is.
 
